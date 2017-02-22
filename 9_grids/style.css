@@ -1,0 +1,89 @@
+.div_1{
+  position: absolute;
+  background-color: red;
+  top: 0;
+  left: 0;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_2{
+  position: absolute;
+  background-color: yellow;
+  top: 33.33%;
+  left: 0;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_3{
+  position: absolute;
+  background-color: grey;
+  top: 66.66%;
+  left: 0;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_4{
+  position: absolute;
+  background-color: pink;
+  top: 0;
+  left: 33.33%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_5{
+  position: absolute;
+  background-color: blue;
+  top: 33.33%;
+  left: 33.33%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_6{
+  position: absolute;
+  background-color: green;
+  top: 66.66%;
+  left: 33.33%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_7{
+  position: absolute;
+  background-color: lightblue;
+  top: 0;
+  left: 66.66%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_8{
+  position: absolute;
+  background-color: orange;
+  top: 33.33%;
+  left: 66.66%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_1{
+  position: absolute;
+  background-color: brown;
+  top: 66.66%;
+  left: 66.66%;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}

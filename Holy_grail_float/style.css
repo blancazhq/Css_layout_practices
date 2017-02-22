@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+}
+
+.container{
+  height: 100vh;
+}
+
+.div_1{
+  float: left;
+  background-color: red;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_2{
+  float: left;
+  background-color: blue;
+  width: 60%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_3{
+  float: left;
+  background-color: yellow;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_4{
+  background-color: green;
+  width: 100%;
+  height: 10%;
+  overflow: auto;
+}
+
+.div_5{
+  clear:left;
+  background-color: pink;
+  width: 100%;
+  height: 10%;
+  overflow: auto;
+}

@@ -1,0 +1,79 @@
+.bus_div{
+  position: absolute;
+  top: 20%;
+  left: 3%;
+  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+  -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
+  transform: rotate(45deg);
+  transform-origin: 50% 50%;
+}
+
+#superman{
+  width: 130px;
+  position: absolute;
+  top: 40px;
+  left: 850px;
+}
+
+#kim{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 740px;
+}
+
+#lea{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 630px;
+}
+
+#lily{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 520px;
+}
+
+#roy{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 450px;
+}
+
+#bob{
+  width: 100px;
+  position: absolute;
+  top: 50px;
+  left: 350px;
+}
+
+#baby{
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 260px;
+}
+
+#mimi{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 140px;
+}
+
+#joan{
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+
+
+
+#schoolbus{
+  width: 1200px;
+  position: absolute;
+}

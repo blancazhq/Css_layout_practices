@@ -1,0 +1,71 @@
+.div_1{
+  float: left;
+  background-color: red;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_2{
+  float: left;
+  background-color: yellow;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_3{
+  float: left;
+  background-color: grey;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_4{
+  float: left;
+  background-color: pink;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_5{
+  float: left;
+  background-color: blue;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_6{
+  float: left;
+  background-color: green;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_7{
+  float: left;
+  background-color: lightblue;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_8{
+  float: left;
+  background-color: orange;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}
+
+.div_9{
+  float: left;
+  background-color: brown;
+  width: 33.33%;
+  height: 33.33%;
+  overflow: auto;
+}

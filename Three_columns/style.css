@@ -1,0 +1,31 @@
+
+
+.div_1{
+  position:absolute;
+  background-color: red;
+  top:0;
+  left:0;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_2{
+  position:absolute;
+  top:0;
+  left:20%;
+  background-color: blue;
+  width: 60%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_3{
+  position:absolute;
+  top:0;
+  left:80%;
+  background-color: yellow;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}

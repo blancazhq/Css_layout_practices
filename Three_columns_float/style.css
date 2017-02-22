@@ -1,0 +1,25 @@
+
+
+.div_1{
+  float: left;
+  background-color: red;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_2{
+  float: left;
+  background-color: blue;
+  width: 60%;
+  height: 100%;
+  overflow: auto;
+}
+
+.div_3{
+  float: left;
+  background-color: yellow;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+}
